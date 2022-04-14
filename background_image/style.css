@@ -1,0 +1,25 @@
+div {
+    background-color: #fff;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+
+section {
+  width: 100%;
+  height: 800px;
+  color: #aca9a9;
+  background-image: url(images/DSC_0119\ copy.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+ 
+  margin: 0 auto;
+}
+
+h1 {
+    font-size: 62px;
+}
+
+
+
